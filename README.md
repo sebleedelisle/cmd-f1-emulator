@@ -3,7 +3,7 @@ Code for an Adafruit Trinket to emulate the Cmd-F1 keypress to toggle display mi
 
 See blog post at  http://seb.ly/2017/06/calling-all-spea…isplay-mirroring/ for full instructions
 
-#To compile the code : 
+# To compile the code : 
 
 Install Arduino and the Trinket board as described at Adafruit : https://learn.adafruit.com/adafruit-arduino-ide-setup/overview (Arduino 1.6+ recommended)
 
