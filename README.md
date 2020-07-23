@@ -1,7 +1,7 @@
 # cmd-f1-emulator
 Code for an Adafruit Trinket to emulate the Cmd-F1 keypress to toggle display mirroring on Macs. 
 
-See blog post at  http://seb.ly/2017/06/calling-all-spea…isplay-mirroring/ for full instructions
+See blog post at  https://seblee.me/2017/07/calling-all-speakers-a-hardware-button-to-toggle-display-mirroring/ for full instructions
 
 ##### To compile the code : 
 
